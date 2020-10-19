@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const projects = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Contact Me" />
     <h1>Contact Me</h1>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
