@@ -42,6 +42,7 @@ const Layout = ({ children }) => {
           left: '0',
           width: '100%',
           height: '50px',
+          color: 'white',
           backgroundColor: 'grey',
         }}>
           © {new Date().getFullYear()}, Built with
