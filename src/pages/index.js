@@ -9,9 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hello World</h1>
-    <p>Welcome to my website!.</p>
-    <p>Checkout my github!</p>
-    <h2>Look! It's me!</h2>
+    <h3>Welcome to my website!</h3>
+    <p>The site is still under construction, please check back soon!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
