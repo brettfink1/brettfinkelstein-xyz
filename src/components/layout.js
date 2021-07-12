@@ -35,10 +35,8 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer style={{
-          marginTop: `2rem`,
           padding: '12px',
-          position: 'fixed',
-          bottom: '0',
+          position: 'absolute',
           left: '0',
           width: '100%',
           height: '50px',
