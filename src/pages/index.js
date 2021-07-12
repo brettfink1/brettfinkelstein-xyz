@@ -13,12 +13,10 @@ const IndexPage = () => (
     <p>The site is still under construction, please check back soon!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
+      <Link to="/projects/">Check out my projects!</Link><br />
+      <Link to="/contact/">Contact Me</Link><br />
     </div>
-    <div>
-      
-    </div>
-    <Link to="/projects/">Check out my projects!</Link><br />
-    <Link to="/contact/">Contact Me</Link><br />
+    
     
   </Layout>
 )
